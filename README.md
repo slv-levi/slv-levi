@@ -32,7 +32,7 @@
  
 <br>
  
-## Pra conteúdo sobre programação me segue nas redes abaixo!
+##🔗 Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com/@levisilva6906" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="38" target="_blank"></a>
