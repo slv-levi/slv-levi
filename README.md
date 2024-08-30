@@ -15,7 +15,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+  <summary>👨‍💻 <strong>Mais sobre mim</strong></summary>
 
   - 💬 Tenho 25 anos, atualmente moro no Brasil, mais precisamente em Fortaleza/Ce. Tenho experiência com <strong>HTML, CSS e JavaScript</strong> e sigo buscando cada vez mais conhecimento, para se tornar um profissional completo e competente em qualquer empresa que eu estiver, sou muito comunicativo, proativo e amigável, gosto muito de ouvir também, todo tipo de feedback é importante para mim, acredito que são através deles que posso me tornar um profissional e uma pessoa melhor, gosto de ver e participar das coisas acontecendo, gosto de observar e entender como tudo funciona.
 
