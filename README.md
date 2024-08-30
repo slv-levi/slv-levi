@@ -21,6 +21,8 @@
 
   - ⚡ Gosto sempre de ler bons livros, a Biblia é o principal dele, pois consigo extrair dela, muitos ensinamentos para o dia a dia, gosto de assistir bons filmes, e passar o tempo com minha familia, pois foi pelo filho que comecei a estudar programação, pela chance de dar para ele um bom futuro, e ser um pai mais presente na vida dele, e acabei me apaixonando pela area. 
 </details>
+
+   ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Status 
    
  <div>
   <a href="https://github.com/slv-levi">
@@ -30,15 +32,19 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue nas redes abaixo!
+## Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
-  <a href="https://www.youtube.com/@levisilva6906" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/slv_levi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/973Cb95QUD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:levizinhowskateboard@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/levi-silva-0b3b33206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/@levisilva6906" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="38" target="_blank"></a>
+  <a href="https://instagram.com/slv_levi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="38" target="_blank"></a>
+  <a href="https://discord.gg/973Cb95QUD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="38" target="_blank"></a> 
+  <a href = "mailto:levizinhowskateboard@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="38" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/levi-silva-0b3b33206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38" target="_blank"></a> 
 </div>
+
+<!-- Skills: Programming Languages & Tools -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Linguagens e Ferramentas:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode&perline=13)](#)
 
   <!-- Portifolio -->
 ## 🔗 Portfólio
@@ -59,20 +65,6 @@
   <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </p>
 
-## 🔥 Habilidades
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Linguagens de programação</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Ferramentas</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" width="40" height="40" src="https://img.icons8.com/ios-filled/40/ffffff/github.png" alt="github"/> 
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  </div>
-    
+  <p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
