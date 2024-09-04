@@ -35,16 +35,16 @@
 ## 🔗 Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
-  <a href="https://www.youtube.com/@levisilva6906" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="38" target="_blank"></a>
-  <a href="https://instagram.com/slv_levi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="38" target="_blank"></a>
-  <a href="https://discord.gg/973Cb95QUD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="38" target="_blank"></a> 
-  <a href = "mailto:levizinhowskateboard@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="38" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/levi-silva-0b3b33206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38" target="_blank"></a> 
+  <a href="https://www.youtube.com/@levisilva6906" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&style="border-radius:50%"" height="38" target="_blank"></a>
+  <a href="https://instagram.com/slv_levi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&style="border-radius:50%"" height="38" target="_blank"></a>
+  <a href="https://discord.gg/973Cb95QUD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&style="border-radius:50%"" height="38" target="_blank"></a> 
+  <a href = "mailto:levizinhowskateboard@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&perline=13&logoColor=white&style="border-radius:50%"" height="38" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/levi-silva-0b3b33206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&style="border-radius:50%"" height="38" target="_blank"></a> 
 </div>
 
 <!-- Skills: Programming Languages & Tools -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Linguagens e Ferramentas:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,discord,notion&perline=13)](#)
 
   <!-- Portifolio -->
 ## 🔗 Portfólio
