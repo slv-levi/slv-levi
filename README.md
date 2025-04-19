@@ -44,7 +44,7 @@
 
 <!-- Skills: Programming Languages & Tools -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Linguagens e Ferramentas:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,react,git,github,vscode,figma,discord,notion&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,typescript,react,git,github,vscode,figma,discord,notion&perline=13)](#)
 
   <!-- Portifolio -->
 ## 🔗 Portfólio
