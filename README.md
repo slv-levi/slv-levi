@@ -22,7 +22,7 @@
   - ⚡ Gosto sempre de ler bons livros, a Biblia é o principal dele, pois consigo extrair dela, muitos ensinamentos para o dia a dia, gosto de assistir bons filmes, e passar o tempo com minha familia, pois foi pelo filho que comecei a estudar programação, pela chance de dar para ele um bom futuro, e ser um pai mais presente na vida dele, e acabei me apaixonando pela area. 
 </details>
 
-   ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Status 
+   ## 🚀 Github Status 
    
  <div>
   <a href="https://github.com/slv-levi">
