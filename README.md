@@ -24,13 +24,14 @@
 
    ## 🚀 Github Status 
    
- <div>
+<div>
   <a href="https://github.com/slv-levi">
-  [[]¡![Estatísticas do GitHub de Levi Silva]((S)https://github-readme-stats.vercel.app/api?username=slv-levi)]((S)https://github.com/slv-levi/github-readme-stats(S)
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slv-levi&layout=compact&langs_count=6&theme=cobalt"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slv-levi&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/slv-levi/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slv-levi&layout=compact&langs_count=8&theme=cobalt"/>
+  </a>
 </div>
- 
 <br>
  
 ## 🔗 Pra conteúdo sobre programação me segue nas redes abaixo!
