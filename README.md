@@ -1,3 +1,4 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Levi%20Silva&fontAlignY=40&color=0:6EBBFF,100:000cff&fontColor=fff)
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
@@ -22,31 +23,22 @@
   - ⚡ Gosto sempre de ler bons livros, a Biblia é o principal dele, pois consigo extrair dela, muitos ensinamentos para o dia a dia, gosto de assistir bons filmes, e passar o tempo com minha familia, pois foi pelo filho que comecei a estudar programação, pela chance de dar para ele um bom futuro, e ser um pai mais presente na vida dele, e acabei me apaixonando pela area. 
 </details>
 
-   ## 🚀 Github Status 
-   
-<div>
-  <a href="https://github.com/slv-levi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slv-levi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/slv-levi/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slv-levi&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</div>
-<br>
- 
-## 🔗 Pra conteúdo sobre programação me segue nas redes abaixo!
- 
-<div> 
-  <a href="https://www.youtube.com/@levisilva6906" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&style="border-radius:50%"" height="35" target="_blank"></a>
-  <a href="https://instagram.com/slv_levi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&style="border-radius:50%"" height="35" target="_blank"></a>
-  <a href="https://discord.gg/973Cb95QUD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&style="border-radius:50%"" height="35" target="_blank"></a> 
-  <a href = "mailto:levizinhowskateboard@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&perline=13&logoColor=white&style="border-radius:50%"" height="35" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/levi-silva-0b3b33206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&style="border-radius:50%"" height="35" target="_blank"></a> 
-</div>
-
 <!-- Skills: Programming Languages & Tools -->
 ## 🛠 **Linguagens e Ferramentas:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,typescript,react,vite,git,github,vscode,figma,discord,vscode,notion,mysql,npm,supabase&perline=13)](#)
+
+## 🔗 Pra conteúdo sobre programação me segue nas redes abaixo!
+ 
+
+  <p align="center">
+    <div align="center">
+      <a href="https://www.instagram.com/slv_levi/" target="blank"><img align="center" alt="intagram" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Instagram.svg"/></a>
+      <a href="https://www.linkedin.com/in/levi-silva-0b3b33206" target="blank"><img align="center" alt="linkedim" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg"/></a>
+      <a href="https://www.youtube.com/@levisilva6906" target="blank"><img align="center" alt="intagram" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Youtube.svg"/></a>
+      <a href="https://discord.gg/973Cb95QUD" target="blank"><img align="center" alt="intagram" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Discord.svg"/></a>
+      <a href="mailto:slv_levi@outlook.com" target="_blank"><img align="center" alt="intagram" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Outlook.svg"/></a>
+    </div>
+    
 
   <!-- Portifolio -->
 ## 🔗 Portfólio
