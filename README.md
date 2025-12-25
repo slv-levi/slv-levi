@@ -21,11 +21,13 @@
   - 💬 Tenho 25 anos, atualmente moro no Brasil, mais precisamente em Fortaleza/Ce. Tenho experiência com <strong>HTML, CSS e JavaScript</strong> e sigo buscando cada vez mais conhecimento, para se tornar um profissional completo e competente em qualquer empresa que eu estiver, sou muito comunicativo, proativo e amigável, gosto muito de ouvir também, todo tipo de feedback é importante para mim, acredito que são através deles que posso me tornar um profissional e uma pessoa melhor, gosto de ver e participar das coisas acontecendo, gosto de observar e entender como tudo funciona.
 
   - ⚡ Gosto sempre de ler bons livros, a Biblia é o principal dele, pois consigo extrair dela, muitos ensinamentos para o dia a dia, gosto de assistir bons filmes, e passar o tempo com minha familia, pois foi pelo filho que comecei a estudar programação, pela chance de dar para ele um bom futuro, e ser um pai mais presente na vida dele, e acabei me apaixonando pela area. 
-</details>
+</details><br>
 
+## 👩‍💻 **Linguagens mais usadas**
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=slv-levi&layout=compact&count_private=true&theme=tokyonight&title_color=00b3ff)](#)<br><br>
 <!-- Skills: Programming Languages & Tools -->
 ## 🛠 **Linguagens e Ferramentas:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,typescript,react,vite,git,github,vscode,figma,discord,vscode,notion,mysql,npm,supabase&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,typescript,react,vite,git,github,vscode,figma,discord,vscode,notion,mysql,npm,supabase&perline=13)](#)<br><br>
 
 ## 🔗 Pra conteúdo sobre programação me segue nas redes abaixo!
  
@@ -37,7 +39,7 @@
       <a href="https://www.youtube.com/@levisilva6906" target="blank"><img align="center" alt="intagram" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Youtube.svg"/></a>
       <a href="https://discord.gg/973Cb95QUD" target="blank"><img align="center" alt="intagram" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Discord.svg"/></a>
       <a href="mailto:slv_levi@outlook.com" target="_blank"><img align="center" alt="intagram" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Outlook.svg"/></a>
-    </div>
+    </div><br><br>
     
 
   <!-- Portifolio -->
@@ -57,7 +59,7 @@
 - Repositorio: [Projeto One Piece](https://github.com/slv-levi/Projeto-One-Piece.git)<br>
   Página: [One Piece](https://slv-levi.github.io/Projeto-One-Piece/)
 - Repositorio: [projeto X-Devs.final](https://github.com/slv-levi/x-devs-final.git)<br>
-  Página: [X-Devs.final](https://slv-levi.github.io/x-devs-final/)
+  Página: [X-Devs.final](https://slv-levi.github.io/x-devs-final/)<br><br>
 
 <p align="left">
   <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
