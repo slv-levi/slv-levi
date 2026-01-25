@@ -24,11 +24,14 @@
 </details><br>
 
 ## 👩‍💻 **Linguagens mais usadas**
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=slv-levi&layout=compact&count_private=true&theme=tokyonight&title_color=00b3ff)](#)<br><br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=slv-levi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
 <!-- Skills: Programming Languages & Tools -->
-## 🛠 **Linguagens e Ferramentas:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,typescript,react,vite,git,github,vscode,figma,discord,vscode,notion,mysql,npm,supabase&perline=13)](#)<br><br>
+## 🛠 **Linguagens e Ferramentas:**
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,typescript,react,vite,git,github,vscode,figma,discord,vscode,notion,mysql,npm,supabase&perline=13)](#)<br><br>
 ## 🔗 Pra conteúdo sobre programação me segue nas redes abaixo!
  
 
