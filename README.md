@@ -42,9 +42,8 @@
       <a href="https://www.youtube.com/@levisilva6906" target="blank"><img align="center" alt="intagram" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Youtube.svg"/></a>
       <a href="https://discord.gg/973Cb95QUD" target="blank"><img align="center" alt="intagram" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Discord.svg"/></a>
       <a href="mailto:slv_levi@outlook.com" target="_blank"><img align="center" alt="intagram" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Outlook.svg"/></a>
-    </div><br><br>
+    </div>
     
-
   <!-- Portifolio -->
 ## 🔗 Portfólio
 - Repositorio: [Tela de Login](https://github.com/slv-levi/tela-login-simples.git)<br>
