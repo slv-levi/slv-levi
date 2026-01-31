@@ -46,6 +46,8 @@
     
   <!-- Portifolio -->
 ## 🔗 Portfólio
+- Repositorio: [Landing Page](https://github.com/slv-levi/landing-page?tab=readme-ov-file)<br>
+  Página: [Landing Page](https://slv-levi.github.io/landing-page/index.html)
 - Repositorio: [Tela de Login](https://github.com/slv-levi/tela-login-simples.git)<br>
   Página: [Tela de Login](https://slv-levi.github.io/tela-login-simples/)
 - Repositorio: [Projeto PokeDevs](https://github.com/slv-levi/projeto-pokedevs)<br>
