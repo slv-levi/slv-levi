@@ -46,6 +46,12 @@
     
   <!-- Portifolio -->
 ## 🔗 Portfólio
+- Repositório: [Formulário de Validação](https://github.com/slv-levi/formulario-e-validacao)<br>
+  Página: [Formulário de Validação](https://slv-levi.github.io/formulario-e-validacao/)
+- Repositório: [Menu Acordeon](https://github.com/slv-levi/menu-acordeon)<br>
+  Página: [Menu Acordeon](https://slv-levi.github.io/menu-acordeon/)
+- Repositorio: [Land pading com Grid e Flex](https://github.com/slv-levi/landing-page-grid-e-flex)<br>
+  Página: [Land pading com Grid e Flex](https://slv-levi.github.io/landing-page-grid-e-flex/)
 - Repositorio: [CodeCreator](https://github.com/slv-levi/Criador-de-sites)<br>
   Página: [CodeCreator](https://slv-levi.github.io/Criador-de-sites/)
 - Repositorio: [Landing Page](https://github.com/slv-levi/landing-page?tab=readme-ov-file)<br>
