@@ -1,27 +1,39 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Levi%20Silva&fontAlignY=40&color=0:6EBBFF,100:000cff&fontColor=fff)
 <!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Bem-vindo(a) ao perfil do Levi Silva Dev. Frontend 😁 </h1></summary>
+<div align="center">
+  <h1>Bem-vindo(a) ao perfil do Levi Silva Dev. Frontend 😄</h1>
 </div>
    
 <!-- Presentation -->
-<p>
-  Oi 👋, Eu sou o Levi! Dev. Frontend.
+# Olá! Eu sou o Levi Silva 👋
 
-  - 📖 Atualmente estou estudando desenvolvimento Web.
+### Desenvolvedor Front-End Júnior | Em Transição de Carreira (Ex-Operador de CAD/CAM)
 
-  - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar como desenvolvedor Full Stack.
-</p>
+Sou apaixonado por tecnologia e programação, vivendo atualmente uma transição de carreira gratificante e desafiadora da área de **CAD/CAM** para o **desenvolvimento de software**. Essa bagagem anterior me deu uma forte base em **raciocínio lógico**, **atenção rigorosa aos detalhes** e **otimização de processos** — habilidades que hoje aplico diretamente na engenharia de software e na criação de interfaces eficientes.
+
+Tenho focado meus estudos e evolução técnica no ecossistema **JavaScript**, desenvolvendo aplicações modernas, limpas e responsivas. Além disso, busco constantemente expandir meus horizontes explorando arquiteturas de back-end, modelagem de dados e aplicações práticas de inteligência artificial.
+
+🎯 **Objetivo atual:** Em busca da minha primeira oportunidade profissional na área técnica, pronto para entregar empenho, paixão pelo código e contribuir ativamente com o crescimento da equipe enquanto evoluo como um profissional full-stack completo.
+
+---
+
+
+#### **Interesses & Estudos Contínuos**
+* 🗄️ **Bancos de Dados:** Modelagem e consultas em SQL e NoSQL.
+* 🤖 **Inteligência Artificial:** Aplicações práticas e integração de APIs inteligentes.
+
+---
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 <strong>Mais sobre mim</strong></summary>
 
-  - 💬 Tenho 25 anos, atualmente moro no Brasil, mais precisamente em Fortaleza/Ce. Tenho experiência com <strong>HTML, CSS e JavaScript</strong> e sigo buscando cada vez mais conhecimento, para se tornar um profissional completo e competente em qualquer empresa que eu estiver, sou muito comunicativo, proativo e amigável, gosto muito de ouvir também, todo tipo de feedback é importante para mim, acredito que são através deles que posso me tornar um profissional e uma pessoa melhor, gosto de ver e participar das coisas acontecendo, gosto de observar e entender como tudo funciona.
+  - 💬 Tenho 28 anos, atualmente moro no Brasil, mais precisamente em Fortaleza/Ce. Tenho experiência com <strong>HTML, CSS e JavaScript</strong> e sigo buscando cada vez mais conhecimento, para se tornar um profissional completo e competente em qualquer empresa que eu estiver, sou muito comunicativo, proativo e amigável, gosto muito de ouvir também, todo tipo de feedback é importante para mim, acredito que são através deles que posso me tornar um profissional e uma pessoa melhor, gosto de ver e participar das coisas acontecendo, gosto de observar e entender como tudo funciona.
 
   - ⚡ Gosto sempre de ler bons livros, a Biblia é o principal dele, pois consigo extrair dela, muitos ensinamentos para o dia a dia, gosto de assistir bons filmes, e passar o tempo com minha familia, pois foi pelo filho que comecei a estudar programação, pela chance de dar para ele um bom futuro, e ser um pai mais presente na vida dele, e acabei me apaixonando pela area. 
-</details><br>
+</details>
+
+---
 
 ## 👩‍💻 **Linguagens mais usadas**
 <div align="center">
